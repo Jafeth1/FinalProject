@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/helpbtn"
+        android:icon="@drawable/help"
+        android:title="@string/HelpButton"
+        android:orderInCategory="500"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/helpbtnHome"
+        android:icon="@drawable/space"
+        android:title="@string/navMenuHome"
+        android:orderInCategory="550"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/navMenuFavourites"
+        android:title="@string/navMenuFavourites"
+        android:icon="@drawable/image"
+        />
+
+</menu>

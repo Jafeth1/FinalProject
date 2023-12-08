@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Francois\' NASA image viewer</string>
+    <string name="mainTitleHeading">Title: </string>
+    <string name="mainTitleContent" translatable="false"></string>
+    <string name="mainExplanationHeading">Explanation: </string>
+    <string name="mainExplanationContent" translatable="false"></string>
+    <string name="mainURLHeading">URL: </string>
+    <string name="mainURLContent" translatable="false"></string>
+    <string name="mainHDURLHeading">HD Link: </string>
+    <string name="mainHDURLContent" translatable="false"></string>
+    <string name="mainDateHeading">Date: </string>
+    <string name="mainDateContent" translatable="false"></string>
+    <string name="mainDatePickerButton">Pick Date</string>
+    <string name="mainDateSelectedTitle">Selected Date:</string>
+    <string name="mainFavouriteThisImage">Favourite image</string>
+    <string name="imageSaved">Image added to favourites</string>
+    <string name="imageExists">Image already favourited</string>
+    <string name="hide">Hide</string>
+    <string name="likeToDelete">Would you like to delete this?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="navMenuHome">Home Page</string>
+    <string name="navMenuFavourites">Favourites</string>
+    <string name="headerMenuTitle">Nav Items</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="HelpButton">Help Button</string>
+    <string name="favTitle">Favourites!</string>
+</resources>

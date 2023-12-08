@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navMenuHome"
+        android:title="@string/navMenuHome"
+        android:icon="@drawable/space"
+        />
+    <item
+    android:id="@+id/navMenuFavourites"
+    android:title="@string/navMenuFavourites"
+    android:icon="@drawable/image"
+    />
+
+</menu>
